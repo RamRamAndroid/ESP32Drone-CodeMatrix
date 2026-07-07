@@ -1,5 +1,3 @@
-# CodeMatrix ESP32 Drone
-
 ## Introduction Of CodeMatrix ESP32 Drone
 <img width="504" height="301" alt="LieWingV2 6 C" src="https://github.com/user-attachments/assets/29ab6a4a-32f4-498b-bbad-5a1e55b8b575" />  
 
@@ -11,9 +9,10 @@ The firmware on CodeMatrix ESP32 Drone supports Crazyflie cfclient and cflib, me
 
 The latest version includes more GPIO pins, sensor mounts, LED indicators to make it easier to tinker with and program. The PCB frame design keeps it lightweight while reducing costs, making it one of the most affordable DIY drones available.
 
-<img width="504" height="301" alt="B1" src="https://github.com/user-attachments/assets/12605fdb-75ff-4016-b6ad-ded19e686e74" />
 
 ## Introduction Of CodeMatrix ESP32 Drone Positioning Module
+<img width="504" height="301" alt="B1" src="https://github.com/user-attachments/assets/12605fdb-75ff-4016-b6ad-ded19e686e74" />
+
 The ESP32 Drone Positioning Module is a plug-and-play optical flow and ToF-based stabilization add-on designed for indoor and GPS-denied flight. Featuring the PMW3901 optical flow sensor for precise X/Y position tracking and the VL53L1X Time-of-Flight sensor for accurate height measurement, this module enables stable height hold and position hold performance. Ideal for DIY drones, autonomous flight experiments, and educational robotics projects.
 
 This module transforms your CodeMatrix ESP32 Drone and Litewing Drone into a fully-equipped autonomous flight platform by adding critical sensor capabilities: precision ToF height measurement, optical motion tracking, and visual status feedback. All connected through a 24-pin connector, eliminating complex wiring while maintaining robust electrical connections suitable for flight operations.
