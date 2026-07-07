@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1, C3, C5";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";3;"10uF";;;
+2;"C4, C6, C8, C10, C11";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";5;"0.1uF";;;
+3;"C7, C9";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"4.7uF";;;
+4;"C18, C19, C20, C21";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";4;"1uF";;;
+5;"D1, D2, D3, D4";"LED_WS2812B-2020_PLCC4_2.0x2.0mm";4;"WS2812B-2020";;;
+6;"R1, R8";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"4.7K";;;
+7;"R2, R3, R4, R5, R6, R7";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";6;"10K";;;
+8;"U1";"SOT-23-5";1;"SPX3819M5-L-1-8";;;
+9;"U2";"QFN_01MB-TXQT_PIX";1;"PMW3901MB-TXQT";;;
+10;"U3";"ST_VL53L1x";1;"VL53L1CXV0FY1";;;

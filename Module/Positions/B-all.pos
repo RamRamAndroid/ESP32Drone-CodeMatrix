@@ -1,0 +1,48 @@
+### Footprint positions - created on 2026-06-30T18:13:45 ###
+### Printed by KiCad version 10.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val              Package                                           PosX       PosY       Rot  Side
+C1        10uF             C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   151.8600  -101.4675  -90.0000  bottom
+C2        10uF             C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   158.4000  -102.1000  -90.0000  bottom
+C3        10uF             C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   154.5825   -88.8500    0.0000  bottom
+C4        0.1uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   150.8125   -88.8500  180.0000  bottom
+C5        10uF             C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   153.1925   -92.6900    0.0000  bottom
+C6        0.1uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   153.1925   -90.7000    0.0000  bottom
+C7        4.7uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   153.1925   -94.7100    0.0000  bottom
+C8        0.1uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   153.1725   -96.7100    0.0000  bottom
+C9        4.7uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   147.6825   -98.9400    0.0000  bottom
+C10       0.1uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   148.7700  -101.9475  -90.0000  bottom
+C11       0.1uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   146.8500  -101.9475  -90.0000  bottom
+C12       0.1uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   148.0125   -85.2500    0.0000  bottom
+C13       0.1uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   156.1100   -97.1525   90.0000  bottom
+C14       0.1uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   159.1225   -98.4100  180.0000  bottom
+C15       0.1uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   162.0700   -91.6975   90.0000  bottom
+C16       4.7uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   159.2075   -92.2700    0.0000  bottom
+C17       0.22uF           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   156.0900   -93.3175  -90.0000  bottom
+C18       1uF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   161.5475  -102.5500  180.0000  bottom
+C19       1uF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   134.2200  -101.8900   90.0000  bottom
+C20       1uF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   137.5000   -82.8875   90.0000  bottom
+C21       1uF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   157.5700   -83.6600  -90.0000  bottom
+D1        WS2812B-2020     LED_WS2812B-2020_PLCC4_2.0x2.0mm              161.0300  -105.4800   90.0000  bottom
+D2        WS2812B-2020     LED_WS2812B-2020_PLCC4_2.0x2.0mm              133.7633  -105.5560   90.0000  bottom
+D3        WS2812B-2020     LED_WS2812B-2020_PLCC4_2.0x2.0mm              134.9983   -82.7517  -90.0000  bottom
+D4        WS2812B-2020     LED_WS2812B-2020_PLCC4_2.0x2.0mm              159.7800   -82.7600   90.0000  bottom
+R1        4.7K             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   162.8525   -94.4200    0.0000  bottom
+R2        10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   153.1825   -98.7200  180.0000  bottom
+R3        10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   141.3500   -91.5600  180.0000  bottom
+R4        10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   141.3500   -93.3100  180.0000  bottom
+R5        10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   141.3500   -95.0600  180.0000  bottom
+R6        10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   141.3500   -96.8100  180.0000  bottom
+R7        10K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   138.1700  -101.5075   90.0000  bottom
+R8        4.7K             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   162.8925   -96.3300    0.0000  bottom
+U1        SPX3819M5-L-1-8  SOT-23-5                                      155.4775  -101.3900    0.0000  bottom
+U2        PMW3901MB-TXQT   QFN_01MB-TXQT_PIX                             147.3739   -94.1842  180.0000  bottom
+U3        VL53L1CXV0FY1    ST_VL53L1x                                    142.3900  -101.6100  180.0000  bottom
+U4        MS5611-01BA      LGA-8_3x5mm_P1.25mm                           152.6750   -85.5650  -90.0000  bottom
+U5        HMC5883L-TR      XDCR_HMC5883L-TR                              159.1850   -95.4800   90.0000  bottom
+J3        Conn_01x06       PinHeader_1x06_P2.54mm_Vertical               168.4775  -114.0840  180.0000  top
+J4        Conn_01x06       PinHeader_1x06_P2.54mm_Vertical               168.4775   -74.2040    0.0000  top
+J5        Conn_01x06       PinHeader_1x06_P2.54mm_Vertical               126.2765  -114.0840  180.0000  top
+J6        Conn_01x06       PinHeader_1x06_P2.54mm_Vertical               126.2765   -74.2040    0.0000  top
+## End
