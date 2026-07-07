@@ -11,7 +11,6 @@ The latest version includes more GPIO pins, sensor mounts, LED indicators to mak
 
 ### Note:- The Files Related To The Drone Are In The Folder Named Drone
 
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Introduction Of CodeMatrix ESP32 Drone Positioning Module
 <img width="504" height="301" alt="B1" src="https://github.com/user-attachments/assets/12605fdb-75ff-4016-b6ad-ded19e686e74" />
@@ -26,6 +25,6 @@ Important: By default, only the ToF sensor, Optical Flow sensor, and Neopixel LE
 
 ### Note:- The Files Related To The Module Are In The Folder Named Module
 
-
+# -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### As This Project Is Based On LiteWing, The Instructions Are The Same As Litewing Drone Instructions (https://circuitdigest.com/wiki/litewing/)
