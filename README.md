@@ -15,7 +15,7 @@ The latest version includes more GPIO pins, sensor mounts, LED indicators to mak
 ## Introduction Of CodeMatrix ESP32 Drone Positioning Module
 <img width="504" height="301" alt="B1" src="https://github.com/user-attachments/assets/12605fdb-75ff-4016-b6ad-ded19e686e74" />
 
-<img width="800" height="800" alt="B-ezgif com-optimize" src="https://github.com/user-attachments/assets/e4ee81fd-fe8e-4aba-8bf7-827fda59f730" />
+<img width="301" height="301" alt="B-ezgif com-optimize" src="https://github.com/user-attachments/assets/e4ee81fd-fe8e-4aba-8bf7-827fda59f730" />
 
 The ESP32 Drone Positioning Module is a plug-and-play optical flow and ToF-based stabilization add-on designed for indoor and GPS-denied flight. Featuring the PMW3901 optical flow sensor for precise X/Y position tracking and the VL53L1X Time-of-Flight sensor for accurate height measurement, this module enables stable height hold and position hold performance. Ideal for DIY drones, autonomous flight experiments, and educational robotics projects.
 
