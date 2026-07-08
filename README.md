@@ -13,7 +13,8 @@ The latest version includes more GPIO pins, sensor mounts, LED indicators to mak
 
 
 ## Introduction Of CodeMatrix ESP32 Drone Positioning Module
-<img width="504" height="301" alt="B1" src="https://github.com/user-attachments/assets/12605fdb-75ff-4016-b6ad-ded19e686e74" />
+<img width="504" height="301" alt="WhatsApp Image 2026-07-04 at 12 35 27 AM" src="https://github.com/user-attachments/assets/f35075ea-c3c8-4f26-9b4a-d3974b2d5326" />
+
 
 <img width="301" height="301" alt="B-ezgif com-optimize" src="https://github.com/user-attachments/assets/e4ee81fd-fe8e-4aba-8bf7-827fda59f730" />
 
