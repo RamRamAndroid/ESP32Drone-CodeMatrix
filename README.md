@@ -1,5 +1,6 @@
 ## Introduction Of CodeMatrix ESP32 Drone
-<img width="504" height="301" alt="LieWingV2 6 C" src="https://github.com/user-attachments/assets/29ab6a4a-32f4-498b-bbad-5a1e55b8b575" />  
+<img width="504" height="301" alt="drone" src="https://github.com/user-attachments/assets/26df250b-da77-4e9d-a287-f5f86218d446" />
+
 
 CodeMatrix ESP32 Drone is a compact, WiFi-controlled drone based on the ESP32-S3 microcontroller. Designed for hobbyists, makers, and engineers, CodeMatrix ESP32 Drone offers a simple yet powerful platform for drone experimentation and development. It is an open-hardware project, making it easy to modify and expand.
 
