@@ -30,6 +30,10 @@ Important: By default, only the ToF sensor, Optical Flow sensor, and Neopixel LE
 
 ### Note:- The Files Related To The Module Are In The Folder Named Module
 
+## Add-On Module Template
+
+I Have Made A Template Of The Positioning Module For You To Customize, It Is In The Module Folder
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### As This Project Is Based On LiteWing, The Instructions Are The Same As Litewing Drone Instructions (https://circuitdigest.com/wiki/litewing/)
