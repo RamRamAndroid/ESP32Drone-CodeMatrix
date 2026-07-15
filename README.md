@@ -31,6 +31,8 @@ Important: By default, only the ToF sensor, Optical Flow sensor, and Neopixel LE
 ### Note:- The Files Related To The Module Are In The Folder Named Module
 
 ## Add-On Module Template
+<img width="504" height="301" alt="untitled" src="https://github.com/user-attachments/assets/c5d3784b-6eb3-4c41-ba14-2ba2f67fd62a" />
+<img width="301" height="301" alt="untitled" src="https://github.com/user-attachments/assets/6bef19a3-b832-4a67-b126-ac0b3bf0233c" />
 
 I Have Made A Template Of The Positioning Module For You To Customize, It Is In The Module Folder
 
