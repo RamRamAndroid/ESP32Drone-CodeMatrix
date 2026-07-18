@@ -26,7 +26,12 @@ This add-on module is completely compatible with the CodeMatrix ESP32 Drone and 
 
 Important: By default, only the ToF sensor, Optical Flow sensor, and Neopixel LEDs will be soldered on the module. The brometric sensor and magnetometer footprint is added only for users who wish to build more using the same board. By default these two sensors will not be populated. The colour of the PCB might also be in black or green color depending on the time of purchase, but features and working will reamin the same.
 
-### Note:- The Files Related To The Module Are In The Folder Named Module
+### Note:- Files Related To The Positioning Module Are In The Folder Named "Module"
+
+## Introduction Of ESP32 Drone Bluetooth Speaker Module
+The ESP32 Drone Positioning Module is a plug-and-play lightweight Bluetooth speaker system to extend the drone's capabilities beyond flight. By adding a simple Bluetooth audio setup, the drone can now deliver real-time announcements, voice messages, or music directly from the air without requiring any additional coding. The entire system works through a standard Bluetooth connection, making it easy to set up, practical for demonstrations, events, and experimental applications while also being fun.
+
+### Note:- Files Related To The Positioning Module Are In The Folder Named "BluetoothModule"
 
 ## Add-On Module Template
 <img width="504" height="301" alt="untitled" src="https://github.com/user-attachments/assets/c5d3784b-6eb3-4c41-ba14-2ba2f67fd62a" />
