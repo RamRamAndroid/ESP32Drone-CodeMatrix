@@ -30,7 +30,7 @@ Important: By default, only the ToF sensor, Optical Flow sensor, and Neopixel LE
 
 ## Introduction Of ESP32 Drone Bluetooth Speaker Module
 <img width="501" height="301" alt="untitled" src="https://github.com/user-attachments/assets/e6223e99-a9f7-4779-8d4c-7a967aaf6e23" />
-
+<img width="301" height="301" alt="untitled-ezgif com-optimize" src="https://github.com/user-attachments/assets/6154a097-b0ed-4e49-9a17-b741c7355595" />
 
 The ESP32 Drone Bluetooth Speaker Module is a plug-and-play lightweight Bluetooth speaker system to extend the drone's capabilities beyond flight. By adding a simple Bluetooth audio setup, the drone can now deliver real-time announcements, voice messages, or music directly from the air without requiring any additional coding. The entire system works through a standard Bluetooth connection, making it easy to set up, practical for demonstrations, events, and experimental applications while also being fun.
 
