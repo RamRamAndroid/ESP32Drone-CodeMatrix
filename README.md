@@ -35,6 +35,11 @@ The ESP32 Drone Bluetooth Speaker Module is a plug-and-play lightweight Bluetoot
 
 ### Note:- Files Related To The Positioning Module Are In The Folder Named "BluetoothModule"
 
+## Introduction Of ESP32 Drone + Positioning Module PCB
+<img width="504" height="301" alt="panel" src="https://github.com/user-attachments/assets/09b20204-1465-4589-9c3d-e5b8bc5b3129" />
+
+This PCB Has Both The Drone And Module Combined Into One PCB For Easier Manufacturing And Assembly And This Method Is Faster Than Getting The Both Seperatly
+
 ## Add-On Module Template
 <img width="504" height="301" alt="untitled" src="https://github.com/user-attachments/assets/c5d3784b-6eb3-4c41-ba14-2ba2f67fd62a" />
 <img width="301" height="301" alt="untitled" src="https://github.com/user-attachments/assets/6bef19a3-b832-4a67-b126-ac0b3bf0233c" />
